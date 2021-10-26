@@ -1,6 +1,6 @@
 # minecraft-mod-pack-1.16.5
 
-Modpack info
+Modpack uses SPECIFICALLY forge-1.16.5-36.2.4
 
 Issues
     - Chisel and Farmer's Delight's knives have the same crafting recipes
