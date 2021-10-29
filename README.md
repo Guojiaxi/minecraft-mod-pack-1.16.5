@@ -1,28 +1,19 @@
-# minecraft-mod-pack-1.16.5
+# Josh Pack for Minecraft 1.16.5
 
-Modpack uses SPECIFICALLY forge-1.16.5-36.2.4
+This modpack SPECIFICALLY uses forge-1.16.5-36.2.4
 
-Issues
-    - Chisel and Farmer's Delight's knives have the same crafting recipes
-        possible solution: change chisel recipe to "iron torch shape"
+## Issues
+* Chisel and Farmer's Delight's knives have the same crafting recipes
+    * possible solution: change chisel recipe using CraftTweaker mod
 
-System
+## System
     Magnesium
     Sulfuric
     SmoothBoot
     Performant
 
-UI
-    JEI
-    Mouse Tweaks
-    Jade
-    FTB Chunks (FTB Library)
-    Configured
-    Catalogued
-    Curios Elytra (Curios, Caelus)
-    Curios of Undying (Curios)
 
-API
+## API
     Mantle
     FTB Library
     Abnormals Core
@@ -33,16 +24,27 @@ API
     Curios
     Caelus
 
-Utils
-    FTB Backup
-    FTB Teams
+## UI
+    JEI
+    Mouse Tweaks
+    Jade
     Appleskin
+    FTB Chunks (FTB Library)
+    Configured
+    Catalogued
+    Curios Elytra (Curios, Caelus)
+    Curios of Undying (Curios)
+
+## Utilities
+    FTB Backup (FTB Library)
+    FTB Teams (FTB Library)
     Clumps
     ConnectedTexturesMod
     Patchouli
     AutoRegLib
+    Morpheous
 
-Mechanics
+## Mechanics/Overhauls
     Quark
     Diet
     GraveStone
@@ -58,15 +60,14 @@ Mechanics
     Biomes O Plenty
     MineColonies (Structurize)
     Serene Seasons
-    Morpheous
 
-Additions
+## Expansions
     Farmer's Delight
     Pam's HarvestCraft 2 Crops
     Pam's HarvestCraft 2 Food Core
     Pam's HarvestCraft 2 Food Extended
     Pam's HarvestCraft 2 Trees
-    Tinkers' Construct (Mantle)
+    Tinkers Construct (Mantle)
     Allurement (Abnormals)
     Bamboo Blocks (Abnormals)
     Buzzier Bees (Abnormals)
@@ -93,9 +94,9 @@ Additions
     Brewevolution
     Structurize
 
-Addons/Compats
+## Addons/Compats
     Abnormals Delight (Farmer's Delight, Abnormals)
-    Nether's Delight (Farmer's Delight, Abnormals)
-    Dynamic Trees - Quark
-    Dynamic Trees - Biomes O Plenty
-    MrCrayfish's More Furniture Mod (MrCrayfish)
+    Nether's Delight (Farmer's Delight)
+    Dynamic Trees - Quark (Dynamic Trees, Quark)
+    Dynamic Trees - Biomes O Plenty (Dynamic Trees, Biomes O Plenty)
+    MrCrayfish's More Furniture Mod (MrCrayfish's Furniture)
