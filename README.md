@@ -6,6 +6,12 @@ Issues
     - Chisel and Farmer's Delight's knives have the same crafting recipes
         possible solution: change chisel recipe to "iron torch shape"
 
+System
+    Magnesium
+    Sulfuric
+    SmoothBoot
+    Performant
+
 UI
     JEI
     Mouse Tweaks
@@ -33,7 +39,6 @@ Utils
     Appleskin
     Clumps
     ConnectedTexturesMod
-    Structurize
     Patchouli
     AutoRegLib
 
@@ -53,6 +58,7 @@ Mechanics
     Biomes O Plenty
     MineColonies (Structurize)
     Serene Seasons
+    Morpheous
 
 Additions
     Farmer's Delight
@@ -85,6 +91,7 @@ Additions
     Comforts
     Botania
     Brewevolution
+    Structurize
 
 Addons/Compats
     Abnormals Delight (Farmer's Delight, Abnormals)
