@@ -1,6 +1,6 @@
 # Josh Pack for Minecraft 1.16.5
 
-This modpack SPECIFICALLY uses forge-1.16.5-36.2.4
+This modpack uses forge-1.16.5-36.2.20
 
 ## Issues
     - Chisel and Farmer's Delight's knives have the same crafting recipes
