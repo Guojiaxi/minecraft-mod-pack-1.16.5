@@ -3,100 +3,90 @@
 This modpack SPECIFICALLY uses forge-1.16.5-36.2.4
 
 ## Issues
-* Chisel and Farmer's Delight's knives have the same crafting recipes
-    * possible solution: change chisel recipe using CraftTweaker mod
+    - Chisel and Farmer's Delight's knives have the same crafting recipes
+        - possible solution: change chisel recipe using CraftTweaker mod
 
 ## System
+    FTB Backups (FTB Library)
+    Smooth Boot
     Magnesium
-    Sulfuric
-    SmoothBoot
-    Performant
-
 
 ## API
     Mantle
-    FTB Library
-    Abnormals Core
-    Placebo
+    Bookshelf
+    Cloth Config API
+    Blueprint
     YUNG's API
-    CoFH Core
-    AttributeFix
-    Curios
-    Caelus
+    Curios API
+    Caelus API
+    FTB Library
+    ConnectedTexturesMod
 
 ## UI
     JEI
-    Mouse Tweaks
+    AppleSkin
     Jade
-    Appleskin
-    FTB Chunks (FTB Library)
-    Configured
-    Catalogued
-    Curios Elytra (Curios, Caelus)
-    Curios of Undying (Curios)
 
 ## Utilities
-    FTB Backup (FTB Library)
-    FTB Teams (FTB Library)
     Clumps
-    ConnectedTexturesMod
-    Patchouli
-    AutoRegLib
-    Morpheous
+    Mouse Tweaks
+    FTB Teams (FTB Library)
+    FTB Chunks (FTB Library)
+    CraftTweaker
 
 ## Mechanics/Overhauls
-    Quark
-    Diet
-    GraveStone
-    Apotheosis (Placebo)
-    Better Dungeons (YUNG)
-    Better Caves (YUNG)
-    Better Strongholds (YUNG)
-    Better Mineshafts (YUNG)
-    Extras (YUNG)
-    Dynamic Surroundings
+    TerraForged <Note: change the world settings before making world! level-type and biome size>
     Dynamic Trees
-    Dynamic Trees+ (Dynamic Trees)
-    Biomes O Plenty
-    MineColonies (Structurize)
+    Dynamic Surroundings (Cloth Config API)
+    Quark
     Serene Seasons
+    YUNG's Better Caves (YUNG's API)
+    YUNG's Better Mineshafts (YUNG's API)
+    YUNG's Better Dungeons (YUNG's API)
+    YUNG's Better Strongholds (YUNG's API)
+    YUNG's Better Portals (YUNG's API)
 
 ## Expansions
-    Farmer's Delight
-    Pam's HarvestCraft 2 Crops
-    Pam's HarvestCraft 2 Food Core
-    Pam's HarvestCraft 2 Food Extended
-    Pam's HarvestCraft 2 Trees
+    MineColonies (Structurize)
     Tinkers Construct (Mantle)
-    Allurement (Abnormals)
-    Bamboo Blocks (Abnormals)
-    Buzzier Bees (Abnormals)
-    Extra Boats (Abnormals)
-    Endergetic Expansion (Abnormals)
-    Personality (Abnormals)
-    Savage and Ravage (Abnormals)
-    Upgrade Aquatics (Abnormals)
-    Environmental ? (Abnormals)
+    Diet
+    Farmer's Delight
+    Simple Farming
+    Biomes 'o Plenty
+    Allurement (Blueprint)
+    Bamboo Blocks (Blueprint)
+    Berry Good (Blueprint)
+    Buzzier Bees (Blueprint)
+    Extra Boats (Blueprint)
+    Enhanced Mushrooms (Blueprint)
+    Endergetic Expansion (Blueprint)
+    Fruitful (Blueprint)
+    Environmental (Blueprint)
+    Neapolitan (Blueprint)
+    Inspirations (Blueprint)
+    Savage & Ravage (Blueprint)
+    Upgrade Aquatics (Blueprint)
+    Personality (Blueprint)
+    Simply Tea!
+    Tea Kettle
     Aquaculture 2
-    CC: Tweaked
-    Chisel (CTM)
-    Thermal Foundation (CoFH)
-    Thermal Cultivation (CoFH)
-    Thermal locomotion (CoFH)
+    Chisel (ConnectedTexturesMod)
     Guard Villagers
-    Sophisticated Backpacks
-    Nature's Compass
     Twilight Forest
-    MrCrayfish's Furniture Mod
-    Craftable Horse Armour & Saddle
-    Comforts
-    Botania
-    Brewevolution
-    Structurize
 
 ## Addons/Compats
-    Abnormals Delight (Farmer's Delight, Abnormals)
-    Nether's Delight (Farmer's Delight)
-    Dynamic Trees - Quark (Dynamic Trees, Quark)
-    Dynamic Trees - Biomes O Plenty (Dynamic Trees, Biomes O Plenty)
-    MrCrayfish's More Furniture Mod (MrCrayfish's Furniture)
+    MineColonies Immersed <Resource Pack> (MineColonies)
+    Dynamic Trees Plus
+    Dynamic Trees - TerraForged
+    Dynamic Trees - Biomes 'o Plenty
+    Dynamic Trees - Quark
+    Dynamic Trees - Neapolitan
+    Quark Oddities (Quark)
+    Abnormals Delight (Farmer's Delight, Blueprint)
+    Nether's Delight (Farmer's Delight, Blueprint)
+    Farmer's Delight Compats (Farmer's Delight)
+    Simple Delights (Farmer's Delight, Simple Farming)
+    Farmer's Tea (Farmer's Delight, Tea Kettle, Simply Tea!)
+    Curios Quark Oddities Backpack (Curios, Quark Oddities)
+    Curios Elytra (Curios, Caelus)
+    Curios of Undying (Curios)
