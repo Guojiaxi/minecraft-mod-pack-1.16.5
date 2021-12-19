@@ -33,6 +33,9 @@ This modpack SPECIFICALLY uses forge-1.16.5-36.2.4
     FTB Teams (FTB Library)
     FTB Chunks (FTB Library)
     CraftTweaker
+    FastWorkbench
+    FastFurnace
+    Structurize
 
 ## Mechanics/Overhauls
     TerraForged <Note: change the world settings before making world! level-type and biome size>
@@ -49,6 +52,7 @@ This modpack SPECIFICALLY uses forge-1.16.5-36.2.4
 ## Expansions
     MineColonies (Structurize)
     Tinkers Construct (Mantle)
+    Inspirations (Mantle)
     Diet
     Farmer's Delight
     Simple Farming
@@ -63,19 +67,18 @@ This modpack SPECIFICALLY uses forge-1.16.5-36.2.4
     Fruitful (Blueprint)
     Environmental (Blueprint)
     Neapolitan (Blueprint)
-    Inspirations (Blueprint)
     Savage & Ravage (Blueprint)
-    Upgrade Aquatics (Blueprint)
+    Upgrade Aquatic (Blueprint)
     Personality (Blueprint)
     Simply Tea!
     Tea Kettle
     Aquaculture 2
     Chisel (ConnectedTexturesMod)
     Guard Villagers
+    Corail Woodcutter
     Twilight Forest
 
 ## Addons/Compats
-    MineColonies Immersed <Resource Pack> (MineColonies)
     Dynamic Trees Plus
     Dynamic Trees - TerraForged
     Dynamic Trees - Biomes 'o Plenty
@@ -88,5 +91,5 @@ This modpack SPECIFICALLY uses forge-1.16.5-36.2.4
     Simple Delights (Farmer's Delight, Simple Farming)
     Farmer's Tea (Farmer's Delight, Tea Kettle, Simply Tea!)
     Curios Quark Oddities Backpack (Curios, Quark Oddities)
-    Curios Elytra (Curios, Caelus)
-    Curios of Undying (Curios)
+    Curious Elytra (Curios, Caelus)
+    Curio of Undying (Curios)
