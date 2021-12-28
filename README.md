@@ -77,6 +77,8 @@ This modpack uses forge-1.16.5-36.2.20
     Guard Villagers
     Corail Woodcutter
     Twilight Forest
+    MrCrayfish's Furniture Mod
+    MrCrayfish's More Furniture Mod
 
 ## Addons/Compats
     Dynamic Trees Plus
